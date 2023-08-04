@@ -17,7 +17,7 @@ This is a simple Python script that generates student results based on their sco
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/abdul-1432/Student-result-using-python```
+   git clone https://github.com/abdul-1432/Student-result-using-python
 
 2. **Run the script**:
 
